@@ -10,4 +10,4 @@ This is a simple HTML, CSS, and JavaScript project created for the Git and GitHu
 
 ## Author
 
-Your Name
+Moiz Iqbal
